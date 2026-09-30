@@ -1,0 +1,14 @@
+C:\Users\Hasnat\Documents\Lab04\MutexFix\bin\Debug\net10.0\MutexFix.exe
+C:\Users\Hasnat\Documents\Lab04\MutexFix\bin\Debug\net10.0\MutexFix.deps.json
+C:\Users\Hasnat\Documents\Lab04\MutexFix\bin\Debug\net10.0\MutexFix.runtimeconfig.json
+C:\Users\Hasnat\Documents\Lab04\MutexFix\bin\Debug\net10.0\MutexFix.dll
+C:\Users\Hasnat\Documents\Lab04\MutexFix\bin\Debug\net10.0\MutexFix.pdb
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\MutexFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\MutexFix.AssemblyInfoInputs.cache
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\MutexFix.AssemblyInfo.cs
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\MutexFix.csproj.CoreCompileInputs.cache
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\MutexFix.dll
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\refint\MutexFix.dll
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\MutexFix.pdb
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\MutexFix.genruntimeconfig.cache
+C:\Users\Hasnat\Documents\Lab04\MutexFix\obj\Debug\net10.0\ref\MutexFix.dll

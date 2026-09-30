@@ -1,0 +1,14 @@
+C:\Users\Hasnat\Documents\Lab04\RaceLab\bin\Debug\net10.0\RaceLab.exe
+C:\Users\Hasnat\Documents\Lab04\RaceLab\bin\Debug\net10.0\RaceLab.deps.json
+C:\Users\Hasnat\Documents\Lab04\RaceLab\bin\Debug\net10.0\RaceLab.runtimeconfig.json
+C:\Users\Hasnat\Documents\Lab04\RaceLab\bin\Debug\net10.0\RaceLab.dll
+C:\Users\Hasnat\Documents\Lab04\RaceLab\bin\Debug\net10.0\RaceLab.pdb
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\RaceLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\RaceLab.AssemblyInfoInputs.cache
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\RaceLab.AssemblyInfo.cs
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\RaceLab.csproj.CoreCompileInputs.cache
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\RaceLab.dll
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\refint\RaceLab.dll
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\RaceLab.pdb
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\RaceLab.genruntimeconfig.cache
+C:\Users\Hasnat\Documents\Lab04\RaceLab\obj\Debug\net10.0\ref\RaceLab.dll

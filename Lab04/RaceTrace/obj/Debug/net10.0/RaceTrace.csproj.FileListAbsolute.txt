@@ -1,0 +1,14 @@
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\bin\Debug\net10.0\RaceTrace.exe
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\bin\Debug\net10.0\RaceTrace.deps.json
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\bin\Debug\net10.0\RaceTrace.runtimeconfig.json
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\bin\Debug\net10.0\RaceTrace.dll
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\bin\Debug\net10.0\RaceTrace.pdb
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\RaceTrace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\RaceTrace.AssemblyInfoInputs.cache
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\RaceTrace.AssemblyInfo.cs
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\RaceTrace.csproj.CoreCompileInputs.cache
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\RaceTrace.dll
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\refint\RaceTrace.dll
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\RaceTrace.pdb
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\RaceTrace.genruntimeconfig.cache
+C:\Users\Hasnat\Documents\Lab04\RaceTrace\obj\Debug\net10.0\ref\RaceTrace.dll

@@ -1,0 +1,14 @@
+C:\Users\Hasnat\Documents\Lab04\CounterBench\bin\Release\net10.0\CounterBench.exe
+C:\Users\Hasnat\Documents\Lab04\CounterBench\bin\Release\net10.0\CounterBench.deps.json
+C:\Users\Hasnat\Documents\Lab04\CounterBench\bin\Release\net10.0\CounterBench.runtimeconfig.json
+C:\Users\Hasnat\Documents\Lab04\CounterBench\bin\Release\net10.0\CounterBench.dll
+C:\Users\Hasnat\Documents\Lab04\CounterBench\bin\Release\net10.0\CounterBench.pdb
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\CounterBench.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\CounterBench.AssemblyInfoInputs.cache
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\CounterBench.AssemblyInfo.cs
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\CounterBench.csproj.CoreCompileInputs.cache
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\CounterBench.dll
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\refint\CounterBench.dll
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\CounterBench.pdb
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\CounterBench.genruntimeconfig.cache
+C:\Users\Hasnat\Documents\Lab04\CounterBench\obj\Release\net10.0\ref\CounterBench.dll
