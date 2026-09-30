@@ -1,0 +1,15 @@
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\bin\Debug\net10.0\LabTask2.exe
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\bin\Debug\net10.0\LabTask2.deps.json
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\bin\Debug\net10.0\LabTask2.runtimeconfig.json
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\bin\Debug\net10.0\LabTask2.dll
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\bin\Debug\net10.0\LabTask2.pdb
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\LabTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\LabTask2.AssemblyInfoInputs.cache
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\LabTask2.AssemblyInfo.cs
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\LabTask2.csproj.CoreCompileInputs.cache
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\LabTask2.sourcelink.json
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\LabTask2.dll
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\refint\LabTask2.dll
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\LabTask2.pdb
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\LabTask2.genruntimeconfig.cache
+C:\Users\Hasnat\Downloads\Lab 02\Lab-02\LabTask2\obj\Debug\net10.0\ref\LabTask2.dll
