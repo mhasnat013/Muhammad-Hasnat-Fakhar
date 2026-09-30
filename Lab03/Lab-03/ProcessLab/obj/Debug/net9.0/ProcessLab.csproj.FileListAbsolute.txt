@@ -1,0 +1,14 @@
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\ProcessLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\ProcessLab.AssemblyInfoInputs.cache
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\ProcessLab.AssemblyInfo.cs
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\ProcessLab.csproj.CoreCompileInputs.cache
+C:\Users\ausoft\Documents\ProcessLab\bin\Debug\net9.0\ProcessLab.exe
+C:\Users\ausoft\Documents\ProcessLab\bin\Debug\net9.0\ProcessLab.deps.json
+C:\Users\ausoft\Documents\ProcessLab\bin\Debug\net9.0\ProcessLab.runtimeconfig.json
+C:\Users\ausoft\Documents\ProcessLab\bin\Debug\net9.0\ProcessLab.dll
+C:\Users\ausoft\Documents\ProcessLab\bin\Debug\net9.0\ProcessLab.pdb
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\ProcessLab.dll
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\refint\ProcessLab.dll
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\ProcessLab.pdb
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\ProcessLab.genruntimeconfig.cache
+C:\Users\ausoft\Documents\ProcessLab\obj\Debug\net9.0\ref\ProcessLab.dll

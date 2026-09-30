@@ -1,0 +1,14 @@
+C:\Users\ausoft\Documents\CreationOverhead\bin\Debug\net9.0\CreationOverhead.exe
+C:\Users\ausoft\Documents\CreationOverhead\bin\Debug\net9.0\CreationOverhead.deps.json
+C:\Users\ausoft\Documents\CreationOverhead\bin\Debug\net9.0\CreationOverhead.runtimeconfig.json
+C:\Users\ausoft\Documents\CreationOverhead\bin\Debug\net9.0\CreationOverhead.dll
+C:\Users\ausoft\Documents\CreationOverhead\bin\Debug\net9.0\CreationOverhead.pdb
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\CreationOverhead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\CreationOverhead.AssemblyInfoInputs.cache
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\CreationOverhead.AssemblyInfo.cs
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\CreationOverhead.csproj.CoreCompileInputs.cache
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\CreationOverhead.dll
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\refint\CreationOverhead.dll
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\CreationOverhead.pdb
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\CreationOverhead.genruntimeconfig.cache
+C:\Users\ausoft\Documents\CreationOverhead\obj\Debug\net9.0\ref\CreationOverhead.dll

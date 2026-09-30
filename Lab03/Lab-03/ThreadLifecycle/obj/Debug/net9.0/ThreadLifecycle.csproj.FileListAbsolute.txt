@@ -1,0 +1,14 @@
+C:\Users\ausoft\Documents\ThreadLifecycle\bin\Debug\net9.0\ThreadLifecycle.exe
+C:\Users\ausoft\Documents\ThreadLifecycle\bin\Debug\net9.0\ThreadLifecycle.deps.json
+C:\Users\ausoft\Documents\ThreadLifecycle\bin\Debug\net9.0\ThreadLifecycle.runtimeconfig.json
+C:\Users\ausoft\Documents\ThreadLifecycle\bin\Debug\net9.0\ThreadLifecycle.dll
+C:\Users\ausoft\Documents\ThreadLifecycle\bin\Debug\net9.0\ThreadLifecycle.pdb
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\ThreadLifecycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\ThreadLifecycle.AssemblyInfoInputs.cache
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\ThreadLifecycle.AssemblyInfo.cs
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\ThreadLifecycle.csproj.CoreCompileInputs.cache
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\ThreadLifecycle.dll
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\refint\ThreadLifecycle.dll
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\ThreadLifecycle.pdb
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\ThreadLifecycle.genruntimeconfig.cache
+C:\Users\ausoft\Documents\ThreadLifecycle\obj\Debug\net9.0\ref\ThreadLifecycle.dll
